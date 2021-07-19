@@ -1,7 +1,16 @@
-Jekyll or HTML starterkit
+Dcycle Site
 =====
 
-[![CircleCI](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master)
+[![CircleCI](https://circleci.com/gh/dcycle/dcycle-site/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/dcycle-site/tree/master)
+
+This site was based on http://github.com/dcycle/starterkit-jekyll/.
+
+We are using the following theme:
+
+* Template Name: Bell
+* Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
 
 Starterkit for new HTML or Jekyll websites.
 
