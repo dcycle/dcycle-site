@@ -16,4 +16,4 @@ You are paying top dollar to develop, maintain, update, host and cache these inc
 
 The only reason you need these systems is to have a nice CMS-type backend, something like this:
 
-<img src="" alt="Backend to a website management"/>
+![A simple backend interface with Wysiwyg](/media/netlify-cms-backend.jpg "A simple backend interface with Wysiwyg")
