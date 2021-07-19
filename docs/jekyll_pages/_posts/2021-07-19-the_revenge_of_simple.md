@@ -8,7 +8,7 @@ All public websites work the same way; clients request a URL and, as a response,
 
 If you are building the next Tinder or Reddit or Yelp, things are a bit more complex. You need a database, security policies, user management, PHP or Node.js servers and so on. **If that is your case, this article is not for you!**
 
-However, if all your traffic except content administrators is public and anonymous (users don't create accounts), **you are throwing money down the drain if you are using a CMS like Drupal or Wordpress**.
+However, if all your traffic except content administrators is public and anonymous (that is, users don't create accounts), **you are throwing money down the drain if you are using a CMS like Drupal or Wordpress**.
 
 ### Wordpress, Drupal, Node.js: the wrong solution for the wrong problem
 
@@ -74,7 +74,7 @@ You can hire a development team to move your properties to JAMstack, but at Dcyc
 
 If your monthly public facing website management budget is $500 or above, [contact us](http://blog.dcycle.com/contact/) if you'd like to schedule a one-hour call to discuss how we can move your web properties to a fully customizable, zero-vendor-lock-in enterprise subscription model.
 
-If you're more of a DIY type, do a web search for migrating from Drupal or Wordpress or Node.js to JAMstack.
+If you're more of a DIY type, do a web search for migrating from Drupal or Wordpress or Node.js to JAMstack. Before you decide to go the DIY route, though, do yourself a favour and read [Common Small Business Mistake: The Do-It-Yourself Attitude (April 30, 2020) by Ana Fejzagic Livancic, on LinkedIn](https://www.linkedin.com/pulse/common-small-business-mistake-do-it-yourself-attitude-ena/).
 
 Either way, you're on a path to never hear about databases, security updates or end-of-life advisories again. And focus on your business.
 
